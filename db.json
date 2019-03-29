@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "products": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "apple",
+      "price": 25
+    },
+    {
+      "id": "orange",
+      "price": 15
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
