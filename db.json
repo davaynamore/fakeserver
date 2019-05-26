@@ -61,7 +61,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
 			"img_url": "./img/cat-item1.jpg",
 			"price": 200,
-			"currency": "$"
+			"currency": "$",
+			"quantity": 5
 		},
 		{
 			"id": 2,
@@ -69,7 +70,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
 			"img_url": "./img/prod-item1.jpg",
 			"price": 300,
-			"currency": "$"
+			"currency": "$",
+			"quantity": 11
 		},
 		{
 			"id": 3,
