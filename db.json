@@ -77,7 +77,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
 			"img_url": "./img/cat-item2.jpg",
 			"price": 150,
-			"currency": "$"
+			"currency": "$",
+			"quantity": 10
 		},
 		{
 			"id": 4,
@@ -85,7 +86,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
 			"img_url": "./img/cat-item3.jpg",
 			"price": 50,
-			"currency": "$"
+			"currency": "$",
+			"quantity": 8
 		},
 		{
 			"id": 5,
@@ -93,7 +95,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
 			"img_url": "./img/prod-item2.jpg",
 			"price": 150,
-			"currency": "$"
+			"currency": "$",
+			"quantity": 3
 		},
 		{
 			"id": 6,
@@ -109,7 +112,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
 			"img_url": "./img/prod-item4.jpg",
 			"price": 500,
-			"currency": "$"
+			"currency": "$",
+			"quantity": 1
 		},
 		{
 			"id": 8,
@@ -117,7 +121,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
 			"img_url": "./img/prod-item5.jpg",
 			"price": 350,
-			"currency": "$"
+			"currency": "$",
+			"quantity": 0
 		},
 		{
 			"id": 9,
@@ -125,7 +130,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
 			"img_url": "./img/slider-img.jpg",
 			"price": 150,
-			"currency": "$"
+			"currency": "$",
+			"quantity": 15
 		}
 	]
 }
