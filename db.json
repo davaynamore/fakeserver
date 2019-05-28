@@ -1,130 +1,150 @@
 {
-	"menu": ["home", "sale", "handbags", "wallets", "accessories", "mens store", "shoes", "vintage", "services", "contact us"],
-	"footerMenu": [
-		{
-			"title": "featured sale",
-			"links": [
-				"Alexis Hudson",
-				"American Apparel",
-				"Ben Sherman",
-				"Big Buddha",
-				"Chanel",
-				"Christian Audigier",
-				"Coach",
-				"Cole Haan"
-			]
-		},
-		{
-			"title": "Mens store",
-			"links": [
-				"Alexis Hudson",
-				"American Apparel",
-				"Ben Sherman",
-				"Big Buddha",
-				"Chanel",
-				"Christian Audigier",
-				"Coach",
-				"Cole Haan"
-			]
-		},
-		{
-			"title": "Women store",
-			"links": [
-				"Alexis Hudson",
-				"American Apparel",
-				"Ben Sherman",
-				"Big Buddha",
-				"Chanel",
-				"Christian Audigier",
-				"Coach",
-				"Cole Haan"
-			]
-		},
-		{
-			"title": "Quick links",
-			"links": [
-				"Alexis Hudson",
-				"American Apparel",
-				"Ben Sherman",
-				"Big Buddha",
-				"Chanel",
-				"Christian Audigier",
-				"Coach",
-				"Cole Haan"
-			]
-		}
-	],
-	"products": {
-		"1": {
-			"title": "Туфли коричные мужские",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
-			"img_url": "./img/cat-item1.jpg",
-			"price": 200,
-			"currency": "$",
-			"quantity": 5
-		},
-		"2": {
-			"title": "Туфли красные женские",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
-			"img_url": "./img/prod-item1.jpg",
-			"price": 300,
-			"currency": "$",
-			"quantity": 11
-		},
-		"3": {
-			"title": "Футболка серая с рисунком",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
-			"img_url": "./img/cat-item2.jpg",
-			"price": 150,
-			"currency": "$",
-			"quantity": 10
-		},
-		"4": {
-			"title": "Шорты",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
-			"img_url": "./img/cat-item3.jpg",
-			"price": 50,
-			"currency": "$",
-			"quantity": 8
-		},
-		"5": {
-			"title": "Футболка черная с рисунком",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
-			"img_url": "./img/prod-item2.jpg",
-			"price": 150,
-			"currency": "$",
-			"quantity": 3
-		},
-		"6": {
-			"title": "Футболка белая",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
-			"img_url": "./img/prod-item3.jpg",
-			"price": 140,
-			"currency": "$"
-		},
-		"8": {
-			"title": "Кошелек",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
-			"img_url": "./img/prod-item4.jpg",
-			"price": 500,
-			"currency": "$",
-			"quantity": 1
-		},
-		"9": {
-			"title": "Сумка женская",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
-			"img_url": "./img/prod-item5.jpg",
-			"price": 350,
-			"currency": "$",
-			"quantity": 0
-		},
-		"10": {
-			"title": "Футболка белая с рисунком",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
-			"img_url": "./img/slider-img.jpg",
-			"price": 150,
-			"currency": "$",
-			"quantity": 15
-		}
-	}
+  "menu": [
+    "home",
+    "sale",
+    "handbags",
+    "wallets",
+    "accessories",
+    "mens store",
+    "shoes",
+    "vintage",
+    "services",
+    "contact us"
+  ],
+  "footerMenu": [
+    {
+      "title": "featured sale",
+      "links": [
+        "Alexis Hudson",
+        "American Apparel",
+        "Ben Sherman",
+        "Big Buddha",
+        "Chanel",
+        "Christian Audigier",
+        "Coach",
+        "Cole Haan"
+      ]
+    },
+    {
+      "title": "Mens store",
+      "links": [
+        "Alexis Hudson",
+        "American Apparel",
+        "Ben Sherman",
+        "Big Buddha",
+        "Chanel",
+        "Christian Audigier",
+        "Coach",
+        "Cole Haan"
+      ]
+    },
+    {
+      "title": "Women store",
+      "links": [
+        "Alexis Hudson",
+        "American Apparel",
+        "Ben Sherman",
+        "Big Buddha",
+        "Chanel",
+        "Christian Audigier",
+        "Coach",
+        "Cole Haan"
+      ]
+    },
+    {
+      "title": "Quick links",
+      "links": [
+        "Alexis Hudson",
+        "American Apparel",
+        "Ben Sherman",
+        "Big Buddha",
+        "Chanel",
+        "Christian Audigier",
+        "Coach",
+        "Cole Haan"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Туфли коричные мужские",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
+      "img_url": "./img/cat-item1.jpg",
+      "price": 200,
+      "currency": "$",
+      "quantity": 5
+    },
+    {
+      "id": 2,
+      "title": "Туфли красные женские",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
+      "img_url": "./img/prod-item1.jpg",
+      "price": 300,
+      "currency": "$",
+      "quantity": 11
+    },
+    {
+      "id": 3,
+      "title": "Футболка серая с рисунком",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
+      "img_url": "./img/cat-item2.jpg",
+      "price": 150,
+      "currency": "$",
+      "quantity": 10
+    },
+    {
+      "id": 4,
+      "title": "Шорты",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
+      "img_url": "./img/cat-item3.jpg",
+      "price": 50,
+      "currency": "$",
+      "quantity": 8
+    },
+    {
+      "id": 5,
+      "title": "Футболка черная с рисунком",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
+      "img_url": "./img/prod-item2.jpg",
+      "price": 150,
+      "currency": "$",
+      "quantity": 3
+    },
+    {
+      "id": 6,
+      "title": "Футболка белая",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
+      "img_url": "./img/prod-item3.jpg",
+      "price": 140,
+      "currency": "$"
+    },
+    {
+      "id": 7,
+      "title": "Кошелек",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
+      "img_url": "./img/prod-item4.jpg",
+      "price": 500,
+      "currency": "$",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "title": "Сумка женская",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
+      "img_url": "./img/prod-item5.jpg",
+      "price": 350,
+      "currency": "$",
+      "quantity": 0
+    },
+    {
+      "id": 9,
+      "title": "Футболка белая с рисунком",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
+      "img_url": "./img/slider-img.jpg",
+      "price": 150,
+      "currency": "$",
+      "quantity": 15
+    }
+  ]
 }
