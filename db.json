@@ -141,7 +141,7 @@
       "id": 9,
       "title": "Футболка белая с рисунком",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis voluptatum aut possimus provident tenetur modi veniam dolorem doloremque totam expedita?",
-      "img_url": "./img/slider-img.jpg",
+      "img_url": "./img/slider-img.png",
       "price": 150,
       "currency": "$",
       "quantity": 15
